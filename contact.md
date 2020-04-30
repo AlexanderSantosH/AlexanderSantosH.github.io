@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Contact Long Haul
+title: DIGA 
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">DIGA</h1>
   <div class="contactContent">
-    <p class="intro">FALA AE  <code>contact.html</code> file.</p>
+    <p class="intro"> FALA AE  <code>contact.html</code> file.</p>
     
     <p>Criei essa aba  focando a interação, então mande suas duvidas e sugestões. Abraços !!</p>
   </div>
