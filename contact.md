@@ -10,7 +10,7 @@ title: Contact Long Haul
     
     <p>Criei essa aba  focando a interação, então mande suas duvidas e sugestões. Abraços !!</p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/alexander.h.santos@gmail.com" method="POST">
     <label for="name">Nome</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">E-mail</label>
